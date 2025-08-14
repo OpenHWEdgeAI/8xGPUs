@@ -231,7 +231,7 @@ Start by booting with WinPE from a USB drive to quickly verify all hardware comp
 [3D Step Models](https://drive.google.com/drive/folders/1CPBjhxc8X349RCH8z7i7xvXVxy29Kzuq)
 
 ## [6.Author](#author) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
-https://img.shields.io/badge/We%20are%20Edge%20AI-%23007EC6
+![We are EdgeAI](https://img.shields.io/badge/We%20are%20Edge%20AI-%23007EC6)
 
 ## [7.License](#license) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 This project is open source and available under the [MIT License](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/LICENSE)
