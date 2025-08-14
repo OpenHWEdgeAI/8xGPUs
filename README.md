@@ -1,7 +1,6 @@
-<!-- <p align="center">
+<p align="center">
   <img src="Photos/welcome.gif">
-</p> -->
-![Image](https://github.com/user-attachments/assets/2a0e66bd-a593-45b7-9e0a-ed99576e9558)
+</p>
 <p align="center">
   <img src="Photos/8GPU/Preparing/EE/inside-8card.jpg">
 </p>
@@ -246,8 +245,6 @@ Start by booting with WinPE from a USB drive to quickly verify all hardware comp
 ## [VII.License](#license) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 This project is open source and available under the [MIT License](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/LICENSE)
 
-<!-- <p align="center">
+<p align="center">
     <img src="Photos/bye-bye-bye.gif">
-</p> -->
-
-![Image](https://github.com/user-attachments/assets/1de5da6a-93db-4dc2-b329-50c1d34a11e0)
+</p>
