@@ -10,12 +10,13 @@ A description which introduce building a server with 8xGPUs for AI
 - [Assembling](#-assembling)
 - [Setup](#-setup)
 - [Testing](#-testing)
+- [GG Drive](#-gg-drive)
 
-## [Introduction](#-introduction) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+## [1.Introduction](#-introduction) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 
 We opened this tutorial for people who want to build their own AI server equipped with 8 GPUs. Whether you are a researcher, developer, or enthusiast, this guide will walk you through the entire process—from selecting compatible hardware, assembling components, configuring the system, to running initial tests. By following these steps, you can set up a powerful platform for deep learning, data science, or other GPU-intensive workloads.
 
-## [Preparing](#-preparing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+## [2.Preparing](#-preparing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 
 ### I. *Electronic & Electrical:*
 <table>
@@ -69,15 +70,15 @@ We opened this tutorial for people who want to build their own AI server equippe
 
 <video src="https://github.com/user-attachments/assets/05ee937c-a871-4809-914b-d98930b31777"></video>
 
-## [Assembling](#-assembling) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+## [3.Assembling](#-assembling) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 
 
 <table>
     <tr>
         <td align="center" width="50%">
-            <b>1.  </b><br>
+            <b>1. Preparing components  </b><br>
             <img src="Photos/8GPU/Assembling/1-Preparing all components.png" width=450 height=400><br>
-            <b>3. <b><br>
+            <b>3.Attaching the fan grid <b><br>
             <img src="Photos/8GPU/Assembling/3.png" width=450 height=400><br>
             <b>5. <b><br>
             <img src="Photos/8GPU/Assembling/5.png" width=450 height=400><br>
@@ -87,7 +88,7 @@ We opened this tutorial for people who want to build their own AI server equippe
             <img src="Photos/8GPU/Assembling/9.png" width=450 height=400><br>
             <b>11. <b><br>
             <img src="Photos/8GPU/Assembling/11.png" width=450 height=400><br>
-            <b>13. <b><br>
+            <b>13.Fixing the PSU board to frame<b><br>
             <img src="Photos/8GPU/Assembling/13.png" width=450 height=400><br>
             <b>15. <b><br>
             <img src="Photos/8GPU/Assembling/15.png" width=450 height=400><br>
@@ -95,11 +96,11 @@ We opened this tutorial for people who want to build their own AI server equippe
         <td align="center" width="50%">
             <b>2. </b><br>
             <img src="Photos/8GPU/Assembling/2.png" width=450 height=400><br>
-            <b>4. <b><br>
+            <b>4.Fixing the fan to frame <b><br>
             <img src="Photos/8GPU/Assembling/4.png" width=450 height=400><br>
-            <b>6. <b><br>
+            <b>6.Attaching controller for fans<b><br>
             <img src="Photos/8GPU/Assembling/6.png" width=450 height=400><br>
-            <b>8. <b><br>
+            <b>8.Fixing the PSU board to frame <b><br>
             <img src="Photos/8GPU/Assembling/8.png" width=450 height=400><br>
             <b>10. <b><br>
             <img src="Photos/8GPU/Assembling/10.png" width=450 height=400><br>
@@ -111,6 +112,48 @@ We opened this tutorial for people who want to build their own AI server equippe
     </tr>
 </table>
 
-## [Setup](#-setup) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+## [4.Setup](#-setup) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+### BIOS Optimization for GPU Performance
 
-## [Testing](#-testing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+The default BIOS settings of the motherboard may not deliver optimal performance for multi-GPU workloads. To maximize the capabilities of your AI server, it is recommended to adjust several BIOS parameters:
+
+- **PCIe Settings:**  
+    Ensure all PCIe slots are set to the highest supported speed (e.g., Gen4 or Gen5) and configure bifurcation if required for your GPUs.<br>
+    ` Advanced -> Chipset Configuration -> PCIE link width -> set MCIO2/1, MCIO4/3, MCIO6/5, MCIO8/7, MCIO12/11, MCIO14/13, MCIO16/15, MCIO18/17 to x16`
+
+- **Above 4G Decoding:**  
+    Enable "Above 4G Decoding" to allow the system to address large amounts of GPU memory.
+    `Maybe this one enable by default`
+
+- **Resizable BAR:**  
+    Activate "Resizable BAR" (Base Address Register) for improved data transfer between CPU and GPUs.<br>
+    `Advanced -> PCI Subsystems Settings -> Enable Re-size BAR support`
+
+- **Power Management:**  
+    Disable unnecessary power-saving features that may throttle GPU performance, such as C-states and ASPM.<br>
+    `Optional`
+
+
+- **Memory Configuration:**  
+    Set RAM to its rated speed and enable XMP/DOCP profiles if available for maximum bandwidth.<br>
+    `Optional`
+
+- **Fan and Thermal Controls:**  
+    Adjust fan curves and thermal limits to ensure adequate cooling for all components.<br>
+    `Optional`
+
+After making these changes, save and reboot the system. Monitor GPU performance and stability during initial tests to confirm improvements.
+
+<video src="https://github.com/user-attachments/assets/41cd6d5d-9acd-41d6-b9c2-4da4666f3870"></video><br>
+
+## [5.Testing](#-testing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+
+
+
+We can use the USB Boot with Win PE to quickly check the hardware is correct or not.
+After that, we can install the wanted OS and start with your AI application
+
+<video src="https://github.com/user-attachments/assets/71afbc5c-ae69-410e-868a-a52b915b1e7a"></video><br>
+## [6.GG Drive](#-gg-drive) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+
+[3D Step Models](https://drive.google.com/drive/folders/1CPBjhxc8X349RCH8z7i7xvXVxy29Kzuq)
