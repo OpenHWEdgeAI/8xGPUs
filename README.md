@@ -17,7 +17,7 @@ We opened this tutorial for people who want to build their own AI server equippe
 
 ## [Preparing](#-preparing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 
-### I. Electronic & Electrical:
+### I. *Electronic & Electrical:*
 <table>
     <tr>
         <td align="center" width="50%">
@@ -49,7 +49,7 @@ We opened this tutorial for people who want to build their own AI server equippe
 <br>
 <br>
 
-### II. Mechanical & Housing
+### II. *Mechanical & Housing:*
 <table>
     <tr>
         <td align="center" width=50%>
@@ -70,6 +70,46 @@ We opened this tutorial for people who want to build their own AI server equippe
 <video src="https://github.com/user-attachments/assets/05ee937c-a871-4809-914b-d98930b31777"></video>
 
 ## [Assembling](#-assembling) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+
+
+<table>
+    <tr>
+        <td align="center" width="50%">
+            <b>1.  </b><br>
+            <img src="Photos/8GPU/Assembling/1-Preparing all components.png" width=450 height=400><br>
+            <b>3. <b><br>
+            <img src="Photos/8GPU/Assembling/3.png" width=450 height=400><br>
+            <b>5. <b><br>
+            <img src="Photos/8GPU/Assembling/5.png" width=450 height=400><br>
+            <b>7. <b><br>
+            <img src="Photos/8GPU/Assembling/7.png" width=450 height=400><br>
+            <b>9. <b><br>
+            <img src="Photos/8GPU/Assembling/9.png" width=450 height=400><br>
+            <b>11. <b><br>
+            <img src="Photos/8GPU/Assembling/11.png" width=450 height=400><br>
+            <b>13. <b><br>
+            <img src="Photos/8GPU/Assembling/13.png" width=450 height=400><br>
+            <b>15. <b><br>
+            <img src="Photos/8GPU/Assembling/15.png" width=450 height=400><br>
+        </td>
+        <td align="center" width="50%">
+            <b>2. </b><br>
+            <img src="Photos/8GPU/Assembling/2.png" width=450 height=400><br>
+            <b>4. <b><br>
+            <img src="Photos/8GPU/Assembling/4.png" width=450 height=400><br>
+            <b>6. <b><br>
+            <img src="Photos/8GPU/Assembling/6.png" width=450 height=400><br>
+            <b>8. <b><br>
+            <img src="Photos/8GPU/Assembling/8.png" width=450 height=400><br>
+            <b>10. <b><br>
+            <img src="Photos/8GPU/Assembling/10.png" width=450 height=400><br>
+            <b>12. <b><br>
+            <img src="Photos/8GPU/Assembling/12.png" width=450 height=400><br>
+            <b>14. <b><br>
+            <img src="Photos/8GPU/Assembling/14.png" width=450 height=400><br>
+        </td>
+    </tr>
+</table>
 
 ## [Setup](#-setup) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 
