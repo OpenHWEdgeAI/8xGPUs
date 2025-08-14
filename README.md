@@ -35,24 +35,28 @@ A description which introduce building a server with 8xGPUs for AI
         <td valign="top" align="center" width="50%">
             <b>1. Motherboard GENOA2D24G-2L+</b><br>
             <img src="Photos/8GPU/Preparing/EE/MB_GENOA2D24G-2L%2B-1(L).jpg" width="450" height="400"><br>
-            <b>2. CPU AMD EPYC 9004</b><br>
+            <b>3. CPU AMD EPYC 9004</b><br>
             <img src="Photos/8GPU/Preparing/EE/CPU.jpg" width="450" height="400"><br>
-            <b>3. RAM DDR5 ECC</b><br>
+            <b>5. RAM DDR5 ECC</b><br>
             <img src="Photos/8GPU/Preparing/EE/RAM_DDR5.jpg" width="450" height="400"><br>
-            <b>4. SSD Samsung PRO 990 1TB</b><br>
+            <b>7. SSD Samsung PRO 990 1TB</b><br>
             <img src="Photos/8GPU/Preparing/EE/SSD.png" width="450" height="400"><br>
+            <b>9. MCIO Adapter</b><br>
+            <img src="Photos/8GPU/Preparing/EE/MCIO_Adapter.png" width="450" height="400"><br>
         </td>
         <td valign="top" align="center" width="50%">
-            <b>5. CPU Heatsink</b><br>
+            <b>2. CPU Heatsink</b><br>
             <img src="Photos/8GPU/Preparing/EE/CPU_heatsink.jpg" width="450" height="400"><br>
-            <b>6. SSD heat sink</b><br>
+            <b>4. SSD heat sink</b><br>
             <img src="Photos/8GPU/Preparing/EE/SSD_heatsink.jpg" width="450" height="400"><br>
-            <b>7. PSU</b><br>
+            <b>6. PSU</b><br>
             <img src="Photos/8GPU/Preparing/EE/PSU.jpg" width="450" height="400"><br>
             <b>8. Power board for PSU</b><br>
             <img src="Photos/8GPU/Preparing/EE/PSU_board.png" width="450" height="400"><br>
-            <b>9. Power cord</b><br>
+            <b>10. Power cord</b><br>
             <img src="Photos/8GPU/Preparing/EE/power_cord.jpg" width="450" height="400"><br>
+            <b>12. MCIO cable</b><br>
+            <img src="Photos/8GPU/Preparing/EE/MCIO_cable.jpg" width="450" height="400"><br>
         </td>
     </tr>
 </table>
