@@ -4,7 +4,7 @@ A description which introduce building a server with 8xGPUs for AI
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/OpenHWEdgeAI/8xGPUs)](https://github.com/OpenHWEdgeAI/8xGPUs/stargazers)
 
-## 📚 Table of Contents
+## 📚 [Table of Contents](#-table-of-contents)
 - [Introduction](#-introduction)
 - [Preparing](#-preparing)
 - [Assembling](#-assembling)
@@ -12,12 +12,12 @@ A description which introduce building a server with 8xGPUs for AI
 - [Testing](#-testing)
 
 
-## [Introduction](#-introduction)
+## [Introduction](#-introduction)  &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 
-## [Preparing](#-preparing)
+## [Preparing](#-preparing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 
-## [Assembling](#-assembling)
+## [Assembling](#-assembling) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 
-## [Setup](#-setup)
+## [Setup](#-setup) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 
-## [Testing](#-testing)
+## [Testing](#-testing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
