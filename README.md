@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="Photos/welcome.gif">
+</p>
+<p align="center">
   <img src="Photos/8GPU/Preparing/EE/inside-8card.jpg">
 </p>
 
@@ -195,15 +198,21 @@ The default BIOS settings of the motherboard may not deliver optimal performance
 
 - **PCIe Settings:**  
     Ensure all PCIe slots are set to the highest supported speed (e.g., Gen4 or Gen5) and configure bifurcation if required for your GPUs.<br>
-    ` Advanced -> Chipset Configuration -> PCIE link width -> set MCIO2/1, MCIO4/3, MCIO6/5, MCIO8/7, MCIO12/11, MCIO14/13, MCIO16/15, MCIO18/17 to x16`
+    ```
+     Advanced -> Chipset Configuration -> PCIE link width -> set MCIO2/1, MCIO4/3, MCIO6/5, MCIO8/7, MCIO12/11, MCIO14/13, MCIO16/15, MCIO18/17 to x16
+    ```
 
 - **Above 4G Decoding:**  
     Enable "Above 4G Decoding" to allow the system to address large amounts of GPU memory.
-    `Maybe this one enable by default`
+    ```
+    Maybe this one enable by default
+    ```
 
 - **Resizable BAR:**  
     Activate "Resizable BAR" (Base Address Register) for improved data transfer between CPU and GPUs.<br>
-    `Advanced -> PCI Subsystems Settings -> Enable Re-size BAR support`
+    ```
+    Advanced -> PCI Subsystems Settings -> Enable Re-size BAR support
+    ```
 
 - **Power Management:**  
     Disable unnecessary power-saving features that may throttle GPU performance, such as C-states and ASPM.<br>
@@ -235,3 +244,7 @@ Start by booting with WinPE from a USB drive to quickly verify all hardware comp
 
 ## [VII.License](#license) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 This project is open source and available under the [MIT License](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/LICENSE)
+
+<p align="center">
+    <img src="Photos/bye-bye-bye.gif">
+</p>
