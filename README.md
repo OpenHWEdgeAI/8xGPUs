@@ -1,4 +1,7 @@
-# 8xGPUs
+<p align="center">
+  <img src="Photos/8GPU/Preparing/EE/inside-8card.jpg">
+</p>
+
 This guide introduces how to build a powerful server with 8x GPUs for AI applications. It covers the essential hardware and software steps needed to create a high-performance system for machine learning.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -12,6 +15,8 @@ This guide introduces how to build a powerful server with 8x GPUs for AI applica
 - [Testing](#-testing)
 - [GG Drive](#-gg-drive)
 - [BOM](#bom)(update soon)
+- [Author](#author)
+- [License](#license)
 
 ## [1.Introduction](#-introduction) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 
@@ -224,3 +229,9 @@ Start by booting with WinPE from a USB drive to quickly verify all hardware comp
 ## [6.GG Drive](#-gg-drive) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 
 [3D Step Models](https://drive.google.com/drive/folders/1CPBjhxc8X349RCH8z7i7xvXVxy29Kzuq)
+
+## [6.Author](#author) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+https://img.shields.io/badge/We%20are%20Edge%20AI-%23007EC6
+
+## [7.License](#license) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+This project is open source and available under the [MIT License](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/LICENSE)
