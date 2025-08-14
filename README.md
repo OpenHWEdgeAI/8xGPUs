@@ -30,10 +30,9 @@ A description which introduce building a server with 8xGPUs for AI
 
 ## [2.Preparing](#-preparing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 
-### I. *Electronic & Electrical:*
 <table>
     <tr>
-        <td align="center" width="50%">
+        <td valign="top" align="center" width="50%">
             <b>1. Motherboard GENOA2D24G-2L+</b><br>
             <img src="Photos/8GPU/Preparing/EE/MB_GENOA2D24G-2L%2B-1(L).jpg" width="450" height="400"><br>
             <b>2. CPU AMD EPYC 9004</b><br>
@@ -43,7 +42,7 @@ A description which introduce building a server with 8xGPUs for AI
             <b>4. SSD Samsung PRO 990 1TB</b><br>
             <img src="Photos/8GPU/Preparing/EE/SSD.png" width="450" height="400"><br>
         </td>
-        <td align="center" width="50%">
+        <td valign="top" align="center" width="50%">
             <b>5. CPU Heatsink</b><br>
             <img src="Photos/8GPU/Preparing/EE/CPU_heatsink.jpg" width="450" height="400"><br>
             <b>6. SSD heat sink</b><br>
@@ -65,13 +64,13 @@ A description which introduce building a server with 8xGPUs for AI
 ### II. *Mechanical & Housing:*
 <table>
     <tr>
-        <td align="center" width=50%>
+        <td valign="top" align="center" width=50%>
             <b>1. CNC Mill </b> <br>
             <img src="Photos/8GPU/Preparing/CNC_Mill_Aluminum_Housing/1.1- CNC Mill.png" width=450 height=400><br>
             <b>3. Anodized </b> <br>
             <img src="Photos/8GPU/Preparing/CNC_Mill_Aluminum_Housing/3-Anodized.png" width=450 height=400><br>
         </td>
-        <td align="center" width="50%">
+        <td valign="top" align="center" width="50%">
             <b>2. Sand blasting </b> <br>
             <img src="Photos/8GPU/Preparing/CNC_Mill_Aluminum_Housing/2-Sand blasting.png" width=450 height=400><br>
             <b>4. Anodized </b><br>
@@ -87,7 +86,7 @@ A description which introduce building a server with 8xGPUs for AI
 
 <table>
     <tr>
-        <td align="center" width="50%">
+        <td valign="top" align="center" width="50%">
             <b>1. Preparing components  </b><br>
             <img src="Photos/8GPU/Assembling/1-Preparing all components.png" width=450 height=400><br>
             <b>3.Attaching the fan grid <b><br>
@@ -129,7 +128,7 @@ A description which introduce building a server with 8xGPUs for AI
             <b>39. <b><br>
             <img src="Photos/8GPU/Assembling/39.png" width=450 height=400><br>
         </td>
-        <td align="center" width="50%">
+        <td valign="top" align="center" width="50%">
             <b>2. </b><br>
             <img src="Photos/8GPU/Assembling/2.png" width=450 height=400><br>
             <b>4.Fixing the fan to frame <b><br>
