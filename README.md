@@ -50,7 +50,7 @@ This guide introduces how to build a powerful server with 8x GPUs for AI applica
         </td>
         <td valign="top" align="center" width="50%">
             <b>2. PSU board</b><br>
-            <img src="Photos/8GPU/Preparing/EE/PSU_board.png" width="450" height="400"><br>
+            <img src="Photos/8GPU/Preparing/EE/PSU_Board.png" width="450" height="400"><br>
             <b>4. CPU heat sink</b><br>
             <img src="Photos/8GPU/Preparing/EE/CPU_heatsink.jpg" width="450" height="400"><br>
             <b>6. SSD heat sink</b><br>
