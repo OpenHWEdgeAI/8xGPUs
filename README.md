@@ -18,7 +18,7 @@ This guide introduces how to build a powerful server with 8x GPUs for AI applica
 - [Author](#author)
 - [License](#license)
 
-## [1.Introduction](#-introduction) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+## [I.Introduction](#-introduction) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 
 
 <table>
@@ -33,8 +33,8 @@ This guide introduces how to build a powerful server with 8x GPUs for AI applica
     
 </table>
 
-## [2.Preparing](#-preparing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
-
+## [II.Preparing](#-preparing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+### 1. *Electronic & Electrical:*
 <table>
     <tr>
         <td valign="top" align="center" width="50%">
@@ -76,7 +76,7 @@ This guide introduces how to build a powerful server with 8x GPUs for AI applica
 <br>
 <br>
 
-### II. *Mechanical & Housing:*
+### 2. *Mechanical & Housing:*
 <table>
     <tr>
         <td valign="top" align="center" width=50%>
@@ -96,7 +96,7 @@ This guide introduces how to build a powerful server with 8x GPUs for AI applica
 
 <video src="https://github.com/user-attachments/assets/05ee937c-a871-4809-914b-d98930b31777"></video>
 
-## [3.Assembling](#-assembling) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+## [III.Assembling](#-assembling) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 
 
 <table>
@@ -188,7 +188,7 @@ This guide introduces how to build a powerful server with 8x GPUs for AI applica
     </tr>
 </table>
 
-## [4.Setup](#-setup) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+## [IV.Setup](#-setup) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 ### BIOS Optimization for GPU Performance
 
 The default BIOS settings of the motherboard may not deliver optimal performance for multi-GPU workloads. To maximize the capabilities of your AI server, it is recommended to adjust several BIOS parameters:
@@ -222,7 +222,7 @@ After making these changes, save and reboot the system. Monitor GPU performance 
 
 <video src="https://github.com/user-attachments/assets/41cd6d5d-9acd-41d6-b9c2-4da4666f3870"></video><br>
 
-## [5.Testing](#-testing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+## [V.Testing](#-testing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 Start by booting with WinPE from a USB drive to quickly verify all hardware components are functioning correctly. Once the hardware is confirmed, you can proceed with installing your desired OS to begin working on your AI application.
 
 <video src="https://github.com/user-attachments/assets/71afbc5c-ae69-410e-868a-a52b915b1e7a"></video><br>
@@ -230,8 +230,8 @@ Start by booting with WinPE from a USB drive to quickly verify all hardware comp
 
 [3D Step Models](https://drive.google.com/drive/folders/1CPBjhxc8X349RCH8z7i7xvXVxy29Kzuq)
 
-## [6.Author](#author) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+## [VI.Author](#author) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 ![We are EdgeAI](https://img.shields.io/badge/We%20are%20Edge%20AI-%23007EC6)
 
-## [7.License](#license) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+## [VII.License](#license) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 This project is open source and available under the [MIT License](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/LICENSE)
