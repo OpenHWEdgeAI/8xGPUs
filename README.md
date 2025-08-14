@@ -19,7 +19,7 @@ This guide introduces how to build a powerful server with 8x GPUs for AI applica
 <table>
     <tr>
         <td align="center" width="50%">
-        <p><b>This tutorial is for anyone looking to build a high-performance AI server with 8 GPUs. Whether you're a researcher, developer, or enthusiast, this guide will walk you through every step—from selecting hardware and assembling components to configuring the system and running initial tests. You'll finish with a powerful platform ready for deep learning, data science, and other GPU-intensive workloads. <b></p>
+        <p><b><i>This tutorial is for anyone looking to build a high-performance AI server with 8 GPUs. Whether you're a researcher, developer, or enthusiast, this guide will walk you through every step—from selecting hardware and assembling components to configuring the system and running initial tests. You'll finish with a powerful platform ready for deep learning, data science, and other GPU-intensive workloads. <i><b></p>
         </td>
         <td align="center" width="50%">
         <img src="Photos/8GPU/Introduction/EdgeAI-8GPU-1.png" width=450 height=400><br>
@@ -50,7 +50,7 @@ This guide introduces how to build a powerful server with 8x GPUs for AI applica
         </td>
         <td valign="top" align="center" width="50%">
             <b>2. PSU board</b><br>
-            <img src="Photos/8GPU/Preparing/EE/PSU_Board.png" width="450" height="400"><br>
+            <img src="Photos/8GPU/Preparing/EE/PSU_board_4.png" width="450" height="400"><br>
             <b>4. CPU heat sink</b><br>
             <img src="Photos/8GPU/Preparing/EE/CPU_heatsink.jpg" width="450" height="400"><br>
             <b>6. SSD heat sink</b><br>
