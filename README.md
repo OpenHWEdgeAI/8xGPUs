@@ -45,6 +45,8 @@ This guide introduces how to build a powerful server with 8x GPUs for AI applica
             <img src="Photos/8GPU/Preparing/EE/MCIO_Adapter.png" width="450" height="400"><br>
             <b>11. MCIO cable</b><br>
             <img src="Photos/8GPU/Preparing/EE/MCIO_cable.jpg" width="450" height="400"><br>
+            <b>13. Fan</b><br>
+            <img src="Photos/8GPU/Preparing/EE/fan.jpg" width="450" height="400"><br>
         </td>
         <td valign="top" align="center" width="50%">
             <b>2. PSU board</b><br>
@@ -58,7 +60,9 @@ This guide introduces how to build a powerful server with 8x GPUs for AI applica
             <b>10. Power cord</b><br>
             <img src="Photos/8GPU/Preparing/EE/power_cord.jpg" width="450" height="400"><br>  
             <b>12. GPU</b><br>
-            <img src="Photos/8GPU/Preparing/EE/GPU.png" width="450" height="400"><br>      
+            <img src="Photos/8GPU/Preparing/EE/GPU.png" width="450" height="400"><br>
+            <b>11. Hub fan</b><br>
+            <img src="Photos/8GPU/Preparing/EE/hub_fan.jpg" width="450" height="400"><br>      
         </td>
     </tr>
 </table>
