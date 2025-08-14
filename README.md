@@ -1,5 +1,5 @@
 # 8xGPUs
-A description which introduce building a server with 8xGPUs for AI 
+This guide introduces how to build a powerful server with 8x GPUs for AI applications. It covers the essential hardware and software steps needed to create a high-performance system for machine learning.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/OpenHWEdgeAI/8xGPUs)](https://github.com/OpenHWEdgeAI/8xGPUs/stargazers)
@@ -11,15 +11,15 @@ A description which introduce building a server with 8xGPUs for AI
 - [Setup](#-setup)
 - [Testing](#-testing)
 - [GG Drive](#-gg-drive)
+- [BOM](#bom)(update soon)
 
 ## [1.Introduction](#-introduction) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
-
 
 
 <table>
     <tr>
         <td align="center" width="50%">
-        <p><b>We opened this tutorial for people who want to build their own AI server equipped with 8 GPUs. Whether you are a researcher, developer, or enthusiast, this guide will walk you through the entire process—from selecting compatible hardware, assembling components, configuring the system, to running initial tests. By following these steps, you can set up a powerful platform for deep learning, data science, or other GPU-intensive workloads. <b></p>
+        <p><b>This tutorial is for anyone looking to build a high-performance AI server with 8 GPUs. Whether you're a researcher, developer, or enthusiast, this guide will walk you through every step—from selecting hardware and assembling components to configuring the system and running initial tests. You'll finish with a powerful platform ready for deep learning, data science, and other GPU-intensive workloads. <b></p>
         </td>
         <td align="center" width="50%">
         <img src="Photos/8GPU/Introduction/EdgeAI-8GPU-1.png" width=450 height=400><br>
@@ -37,26 +37,28 @@ A description which introduce building a server with 8xGPUs for AI
             <img src="Photos/8GPU/Preparing/EE/MB_GENOA2D24G-2L%2B-1(L).jpg" width="450" height="400"><br>
             <b>3. CPU AMD EPYC 9004</b><br>
             <img src="Photos/8GPU/Preparing/EE/CPU.jpg" width="450" height="400"><br>
-            <b>5. RAM DDR5 ECC</b><br>
-            <img src="Photos/8GPU/Preparing/EE/RAM_DDR5.jpg" width="450" height="400"><br>
-            <b>7. SSD Samsung PRO 990 1TB</b><br>
+            <b>5. SSD NVME 1TB</b><br>
             <img src="Photos/8GPU/Preparing/EE/SSD.png" width="450" height="400"><br>
+            <b>7. RAM DDR5 48GB</b><br>
+            <img src="Photos/8GPU/Preparing/EE/RAM_DDR5.jpg" width="450" height="400"><br>
             <b>9. MCIO Adapter</b><br>
             <img src="Photos/8GPU/Preparing/EE/MCIO_Adapter.png" width="450" height="400"><br>
+            <b>11. MCIO cable</b><br>
+            <img src="Photos/8GPU/Preparing/EE/MCIO_cable.jpg" width="450" height="400"><br>
         </td>
         <td valign="top" align="center" width="50%">
-            <b>2. CPU Heatsink</b><br>
-            <img src="Photos/8GPU/Preparing/EE/CPU_heatsink.jpg" width="450" height="400"><br>
-            <b>4. SSD heat sink</b><br>
-            <img src="Photos/8GPU/Preparing/EE/SSD_heatsink.jpg" width="450" height="400"><br>
-            <b>6. PSU</b><br>
-            <img src="Photos/8GPU/Preparing/EE/PSU.jpg" width="450" height="400"><br>
-            <b>8. Power board for PSU</b><br>
+            <b>2. PSU board</b><br>
             <img src="Photos/8GPU/Preparing/EE/PSU_board.png" width="450" height="400"><br>
+            <b>4. CPU heat sink</b><br>
+            <img src="Photos/8GPU/Preparing/EE/CPU_heatsink.jpg" width="450" height="400"><br>
+            <b>6. SSD heat sink</b><br>
+            <img src="Photos/8GPU/Preparing/EE/SSD_heatsink.jpg" width="450" height="400"><br>
+            <b>8. PSU</b><br>
+            <img src="Photos/8GPU/Preparing/EE/PSU.jpg" width="450" height="400"><br>
             <b>10. Power cord</b><br>
-            <img src="Photos/8GPU/Preparing/EE/power_cord.jpg" width="450" height="400"><br>
-            <b>12. MCIO cable</b><br>
-            <img src="Photos/8GPU/Preparing/EE/MCIO_cable.jpg" width="450" height="400"><br>
+            <img src="Photos/8GPU/Preparing/EE/power_cord.jpg" width="450" height="400"><br>  
+            <b>12. GPU</b><br>
+            <img src="Photos/8GPU/Preparing/EE/GPU.png" width="450" height="400"><br>      
         </td>
     </tr>
 </table>
@@ -212,11 +214,7 @@ After making these changes, save and reboot the system. Monitor GPU performance 
 <video src="https://github.com/user-attachments/assets/41cd6d5d-9acd-41d6-b9c2-4da4666f3870"></video><br>
 
 ## [5.Testing](#-testing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
-
-
-
-We can use the USB Boot with Win PE to quickly check the hardware is correct or not.
-After that, we can install the wanted OS and start with your AI application
+Start by booting with WinPE from a USB drive to quickly verify all hardware components are functioning correctly. Once the hardware is confirmed, you can proceed with installing your desired OS to begin working on your AI application.
 
 <video src="https://github.com/user-attachments/assets/71afbc5c-ae69-410e-868a-a52b915b1e7a"></video><br>
 ## [6.GG Drive](#-gg-drive) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
