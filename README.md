@@ -14,7 +14,19 @@ A description which introduce building a server with 8xGPUs for AI
 
 ## [1.Introduction](#-introduction) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 
-We opened this tutorial for people who want to build their own AI server equipped with 8 GPUs. Whether you are a researcher, developer, or enthusiast, this guide will walk you through the entire process—from selecting compatible hardware, assembling components, configuring the system, to running initial tests. By following these steps, you can set up a powerful platform for deep learning, data science, or other GPU-intensive workloads.
+
+
+<table>
+    <tr>
+        <td align="center" width="50%">
+        <p><b>We opened this tutorial for people who want to build their own AI server equipped with 8 GPUs. Whether you are a researcher, developer, or enthusiast, this guide will walk you through the entire process—from selecting compatible hardware, assembling components, configuring the system, to running initial tests. By following these steps, you can set up a powerful platform for deep learning, data science, or other GPU-intensive workloads. <b></p>
+        </td>
+        <td align="center" width="50%">
+        <img src="Photos/8GPU/Introduction/EdgeAI-8GPU-1.png" width=450 height=400><br>
+        </td>
+    </tr>
+    
+</table>
 
 ## [2.Preparing](#-preparing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 
@@ -92,6 +104,30 @@ We opened this tutorial for people who want to build their own AI server equippe
             <img src="Photos/8GPU/Assembling/13.png" width=450 height=400><br>
             <b>15. <b><br>
             <img src="Photos/8GPU/Assembling/15.png" width=450 height=400><br>
+            <b>17. <b><br>
+            <img src="Photos/8GPU/Assembling/17.png" width=450 height=400><br>
+            <b>19. <b><br>
+            <img src="Photos/8GPU/Assembling/19.png" width=450 height=400><br>
+            <b>21. <b><br>
+            <img src="Photos/8GPU/Assembling/21.png" width=450 height=400><br>
+            <b>23. <b><br>
+            <img src="Photos/8GPU/Assembling/23.png" width=450 height=400><br>
+            <b>25. <b><br>
+            <img src="Photos/8GPU/Assembling/25.png" width=450 height=400><br>
+            <b>27. <b><br>
+            <img src="Photos/8GPU/Assembling/27.png" width=450 height=400><br>
+            <b>29. <b><br>
+            <img src="Photos/8GPU/Assembling/29.png" width=450 height=400><br>
+            <b>31. <b><br>
+            <img src="Photos/8GPU/Assembling/31.png" width=450 height=400><br>
+            <b>33. <b><br>
+            <img src="Photos/8GPU/Assembling/33.png" width=450 height=400><br>
+            <b>35. <b><br>
+            <img src="Photos/8GPU/Assembling/35.png" width=450 height=400><br>
+            <b>37. <b><br>
+            <img src="Photos/8GPU/Assembling/37.png" width=450 height=400><br>
+            <b>39. <b><br>
+            <img src="Photos/8GPU/Assembling/39.png" width=450 height=400><br>
         </td>
         <td align="center" width="50%">
             <b>2. </b><br>
@@ -108,6 +144,32 @@ We opened this tutorial for people who want to build their own AI server equippe
             <img src="Photos/8GPU/Assembling/12.png" width=450 height=400><br>
             <b>14. <b><br>
             <img src="Photos/8GPU/Assembling/14.png" width=450 height=400><br>
+            <b>16. <b><br>
+            <img src="Photos/8GPU/Assembling/16.png" width=450 height=400><br>
+            <b>18. <b><br>
+            <img src="Photos/8GPU/Assembling/18.png" width=450 height=400><br>
+            <b>20. <b><br>
+            <img src="Photos/8GPU/Assembling/20.png" width=450 height=400><br>
+            <b>22. <b><br>
+            <img src="Photos/8GPU/Assembling/22.png" width=450 height=400><br>
+            <b>24. <b><br>
+            <img src="Photos/8GPU/Assembling/24.png" width=450 height=400><br>
+            <b>26. <b><br>
+            <img src="Photos/8GPU/Assembling/26.png" width=450 height=400><br>
+            <b>28. <b><br>
+            <img src="Photos/8GPU/Assembling/28.png" width=450 height=400><br>
+            <b>30. <b><br>
+            <img src="Photos/8GPU/Assembling/30.png" width=450 height=400><br>
+            <b>32. <b><br>
+            <img src="Photos/8GPU/Assembling/32.png" width=450 height=400><br>
+            <b>34. <b><br>
+            <img src="Photos/8GPU/Assembling/34.png" width=450 height=400><br>
+            <b>36. <b><br>
+            <img src="Photos/8GPU/Assembling/36.png" width=450 height=400><br>
+            <b>38. <b><br>
+            <img src="Photos/8GPU/Assembling/38.png" width=450 height=400><br>
+            <b>40. <b><br>
+            <img src="Photos/8GPU/Assembling/40.png" width=450 height=400><br>
         </td>
     </tr>
 </table>
