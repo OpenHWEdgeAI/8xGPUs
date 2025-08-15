@@ -63,15 +63,15 @@
 
 ## [II. Preparation 🧑🏽‍🔧](#-preparing) &ensp; [🔝](#-table-of-contents)
 
-### 1. **Electronic & Electrical**
+### 1. [**Electronic & Electrical**](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/Docs/Prepare_EE.md)
 
 
 
-### 2. **Mechanical & Housing**
+### 2. [**Mechanical & Housing**](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/Docs/Prepare_ME.md)
 
 
 
-## [III. Assembly 🦾](#-assembling) &ensp; [🔝](#-table-of-contents)
+## [III. Assembly 🦾](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/Docs/Assembly.md)(#-assembling) &ensp; [🔝](#-table-of-contents)
 
 
 
