@@ -9,6 +9,12 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/OpenHWEdgeAI/8xGPUs)](https://github.com/OpenHWEdgeAI/8xGPUs/stargazers)
+![Status](https://img.shields.io/badge/Status-In%20Development-blue)
+![Downloads](https://img.shields.io/github/downloads/OpenHWEdgeAI/8xGPUs/total)
+![Version](https://img.shields.io/github/v/release/OpenHWEdgeAI/8xGPUs)
+![Repo Size](https://img.shields.io/github/repo-size/OpenHWEdgeAI/8xGPUs)
+![Open Issues](https://img.shields.io/github/issues/OpenHWEdgeAI/8xGPUs)
+![Open Pull Requests](https://img.shields.io/github/issues-pr/OpenHWEdgeAI/8xGPUs)
 
 ## 📚 [Table of Contents](#-table-of-contents)
 - [Introduction](#-introduction)
