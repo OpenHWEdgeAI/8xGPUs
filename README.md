@@ -234,8 +234,11 @@ After making these changes, save and reboot the system. Monitor GPU performance 
 <video src="https://github.com/user-attachments/assets/41cd6d5d-9acd-41d6-b9c2-4da4666f3870"></video><br>
 
 ## [V. Testing](#-testing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
-Start by booting with WinPE from a USB drive to quickly verify all hardware components are functioning correctly. Once the hardware is confirmed, you can proceed with installing your desired OS to begin working on your AI application.
+Start by booting with WinPE from a USB drive to quickly verify all hardware components are functioning correctly, or we can install linux and check with ***`nvtop`*** command. Once the hardware is confirmed, you can proceed with installing your desired OS to begin working on your AI application.
 
+<p align="center">
+    <img src="Photos/8GPU/Testing/Nvtop.png">
+</p>
 <video src="https://github.com/user-attachments/assets/71afbc5c-ae69-410e-868a-a52b915b1e7a"></video><br>
 
 ## [VI. GG Drive](#-gg-drive) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
