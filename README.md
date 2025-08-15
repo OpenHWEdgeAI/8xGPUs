@@ -105,88 +105,87 @@
 <table>
     <tr>
         <td valign="top" align="center" width="50%">
-            <b>1. Preparing components  </b><br>
+            <b>1. Prepare all components.  </b><br>
             <img src="Photos/8GPU/Assembling/1-Preparing all components.png" width=450 height=400><br>
-            <b>3.Attaching the fan grid <b><br>
+            <b>3. Install the dust filter. <b><br>
             <img src="Photos/8GPU/Assembling/3.png" width=450 height=400><br>
-            <b>5. <b><br>
+            <b>5. Install the remaining fans. <b><br>
             <img src="Photos/8GPU/Assembling/5.png" width=450 height=400><br>
-            <b>7. <b><br>
+            <b>7. Place plastic spacers in position on “Part 2 – CPU Plate.”<b><br>
             <img src="Photos/8GPU/Assembling/7.png" width=450 height=400><br>
-            <b>9. <b><br>
+            <b>9. Insert all screws, but do not tighten them yet.<b><br>
             <img src="Photos/8GPU/Assembling/9.png" width=450 height=400><br>
-            <b>11. <b><br>
+            <b>11. Place “Part 10 – PSU Mount” into position. <b><br>
             <img src="Photos/8GPU/Assembling/11.png" width=450 height=400><br>
-            <b>13.Fixing the PSU board to frame<b><br>
+            <b>13. Place all middle parts onto “Part 5 – Bottom.”<b><br>
             <img src="Photos/8GPU/Assembling/13.png" width=450 height=400><br>
-            <b>15. <b><br>
+            <b>15. Secure with M4 × 8 mm screws.<b><br>
             <img src="Photos/8GPU/Assembling/15.png" width=450 height=400><br>
-            <b>17. <b><br>
+            <b>17. Install all four PSUs into position and connect them to the PSU board.<b><br>
             <img src="Photos/8GPU/Assembling/17.png" width=450 height=400><br>
-            <b>19. <b><br>
+            <b>19. Install M4 × 15 mm copper spacers into the M4 holes on the other side.<b><br>
             <img src="Photos/8GPU/Assembling/19.png" width=450 height=400><br>
-            <b>21. <b><br>
+            <b>21. Secure the motherboard to “Part 2 – CPU Plate” using M3 screws.<b><br>
             <img src="Photos/8GPU/Assembling/21.png" width=450 height=400><br>
-            <b>23. <b><br>
+            <b>23. Install the remaining components.<b><br>
             <img src="Photos/8GPU/Assembling/23.png" width=450 height=400><br>
-            <b>25. <b><br>
+            <b>25. (Step intentionally left blank)<b><br>
             <img src="Photos/8GPU/Assembling/25.png" width=450 height=400><br>
-            <b>27. <b><br>
+            <b>27. Connect the PCI board cable to the motherboard.<b><br>
             <img src="Photos/8GPU/Assembling/27.png" width=450 height=400><br>
-            <b>29. <b><br>
+            <b>29. Connect the power cable to the motherboard.<b><br>
             <img src="Photos/8GPU/Assembling/29.png" width=450 height=400><br>
-            <b>31. <b><br>
+            <b>31. Place “Part 6 – Top” into position and secure it with M4 screws and the support plate.<b><br>
             <img src="Photos/8GPU/Assembling/31.png" width=450 height=400><br>
-            <b>33. <b><br>
+            <b>33. Secure the GPUs to the support rail.<b><br>
             <img src="Photos/8GPU/Assembling/33.png" width=450 height=400><br>
-            <b>35. <b><br>
+            <b>35. Connect the power supply cables.<b><br>
             <img src="Photos/8GPU/Assembling/35.png" width=450 height=400><br>
-            <b>37. <b><br>
+            <b>37. Secure “Part 7 – Side.”<b><br>
             <img src="Photos/8GPU/Assembling/37.png" width=450 height=400><br>
-            <b>39. <b><br>
+            <b>39. Connect the main power supply.<b><br>
             <img src="Photos/8GPU/Assembling/39.png" width=450 height=400><br>
         </td>
         <td valign="top" align="center" width="50%">
-            <b>2. </b><br>
+            <b>2. Assemble “Part 7 – Side” and “Part 8 – Side Cover” together. Repeat for the other side. </b><br>
             <img src="Photos/8GPU/Assembling/2.png" width=450 height=400><br>
-            <b>4.Fixing the fan to frame <b><br>
+            <b>4.Assemble the 120 mm × 120 mm fan.<b><br>
             <img src="Photos/8GPU/Assembling/4.png" width=450 height=400><br>
-            <b>6.Attaching controller for fans<b><br>
+            <b>6. Connect all fans to the control board.<b><br>
             <img src="Photos/8GPU/Assembling/6.png" width=450 height=400><br>
-            <b>8.Fixing the PSU board to frame <b><br>
+            <b>8. Fix the PSU board to “Part 2 – CPU Plate.” <b><br>
             <img src="Photos/8GPU/Assembling/8.png" width=450 height=400><br>
-            <b>10. <b><br>
+            <b>10. Assemble the Ethernet board into “Part 10 – PSU Mount.”<b><br>
             <img src="Photos/8GPU/Assembling/10.png" width=450 height=400><br>
-            <b>12. <b><br>
+            <b>12. Place “Part 1 – GPU Plate” on top.<b><br>
             <img src="Photos/8GPU/Assembling/12.png" width=450 height=400><br>
-            <b>14. <b><br>
+            <b>14. Place all support mounts into position.<b><br>
             <img src="Photos/8GPU/Assembling/14.png" width=450 height=400><br>
-            <b>16. <b><br>
+            <b>16. Place “Part 4 – Back” into position and secure it with M4 screws.<b><br>
             <img src="Photos/8GPU/Assembling/16.png" width=450 height=400><br>
-            <b>18. <b><br>
+            <b>18. Tighten all screws on the PSU board.<b><br>
             <img src="Photos/8GPU/Assembling/18.png" width=450 height=400><br>
-            <b>20. <b><br>
+            <b>20. Place the “Motherboard GENOA2D24G-2L+” into position.<b><br>
             <img src="Photos/8GPU/Assembling/20.png" width=450 height=400><br>
-            <b>22. <b><br>
+            <b>22. Place 20 mm plastic spacers under the PCI board and secure them with M4 screws.<b><br>
             <img src="Photos/8GPU/Assembling/22.png" width=450 height=400><br>
-            <b>24. <b><br>
+            <b>24. (Step intentionally left blank)<b><br>
             <img src="Photos/8GPU/Assembling/24.png" width=450 height=400><br>
-            <b>26. <b><br>
+            <b>26. Place the assembled parts upright.<b><br>
             <img src="Photos/8GPU/Assembling/26.png" width=450 height=400><br>
-            <b>28. <b><br>
+            <b>28. Use zip ties to organize cables.<b><br>
             <img src="Photos/8GPU/Assembling/28.png" width=450 height=400><br>
-            <b>30. <b><br>
+            <b>30. (Step intentionally left blank)<b><br>
             <img src="Photos/8GPU/Assembling/30.png" width=450 height=400><br>
-            <b>32. <b><br>
+            <b>32. Install 8 GPUs.<b><br>
             <img src="Photos/8GPU/Assembling/32.png" width=450 height=400><br>
-            <b>34. <b><br>
+            <b>34. Organize the power supply cables.<b><br>
             <img src="Photos/8GPU/Assembling/34.png" width=450 height=400><br>
-            <b>36. <b><br>
+            <b>36. Connect the fan board cable, then place the fan board into position.<b><br>
             <img src="Photos/8GPU/Assembling/36.png" width=450 height=400><br>
-            <b>38. <b><br>
+            <b>38. Repeat for the other side.<b><br>
             <img src="Photos/8GPU/Assembling/38.png" width=450 height=400><br>
-            <b>40. <b><br>
-            <img src="Photos/8GPU/Assembling/40.png" width=450 height=400><br>
+           
         </td>
     </tr>
 </table>
@@ -241,9 +240,18 @@ After making these changes, save and reboot the system. Monitor GPU performance 
 ## [V. Testing](#-testing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 Start by booting with WinPE from a USB drive to quickly verify all hardware components are functioning correctly, or we can install linux, install nvidia drivers for GPU and check with ***`nvtop`*** command. Once the hardware is confirmed, you can proceed with installing your desired OS to begin working on your AI application.
 
-<p align="center">
-    <img src="Photos/8GPU/Testing/Nvtop.png">
-</p>
+<table>
+    <tr>
+        <td align="center">
+            <img src="Photos/8GPU/Testing/Nvtop.png" width=800 height=400><br>
+        </td>
+        <td align="center">
+            <img src="Photos/8GPU/Assembling/40.png" width=450 height=400><br>
+        </td>
+    </tr>
+
+
+<table>
 <video src="https://github.com/user-attachments/assets/71afbc5c-ae69-410e-868a-a52b915b1e7a"></video><br>
 
 ## [VI. GG Drive](#-gg-drive) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
