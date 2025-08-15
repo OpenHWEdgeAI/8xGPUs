@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Photos/welcome.gif">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=11F732&background=000000&width=1450&height=100&lines=Welcome+to+our+GitHub+profile!+This+is+where+we+share+projects+and+contributions." alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <img src="Photos/8GPU/Preparing/EE/inside-8card.jpg">
@@ -69,7 +69,7 @@ This guide introduces how to build a powerful server with 8x GPUs for AI applica
             <img src="Photos/8GPU/Preparing/EE/power_cord.jpg" width="450" height="400"><br>  
             <b>12. GPU</b><br>
             <img src="Photos/8GPU/Preparing/EE/GPU.png" width="450" height="400"><br>
-            <b>11. Hub fan</b><br>
+            <b>14. Hub fan</b><br>
             <img src="Photos/8GPU/Preparing/EE/hub_fan.jpg" width="450" height="400"><br>      
         </td>
     </tr>
@@ -196,23 +196,25 @@ This guide introduces how to build a powerful server with 8x GPUs for AI applica
 
 The default BIOS settings of the motherboard may not deliver optimal performance for multi-GPU workloads. To maximize the capabilities of your AI server, it is recommended to adjust several BIOS parameters:
 
-- **PCIe Settings:**  
+- **PCIe Settings:**  ![Static Badge](https://img.shields.io/badge/Important-8A2BE2)<br>
     Ensure all PCIe slots are set to the highest supported speed (e.g., Gen4 or Gen5) and configure bifurcation if required for your GPUs.<br>
     ```
      Advanced -> Chipset Configuration -> PCIE link width -> set MCIO2/1, MCIO4/3, MCIO6/5, MCIO8/7, MCIO12/11, MCIO14/13, MCIO16/15, MCIO18/17 to x16
     ```
+    
 
-- **Above 4G Decoding:**  
+- **Above 4G Decoding:**  ![Static Badge](https://img.shields.io/badge/Important-8A2BE2)<br>
     Enable "Above 4G Decoding" to allow the system to address large amounts of GPU memory.
     ```
     Maybe this one enable by default
     ```
 
-- **Resizable BAR:**  
+- **Resizable BAR:** ![Static Badge](https://img.shields.io/badge/Important-8A2BE2)<br>
     Activate "Resizable BAR" (Base Address Register) for improved data transfer between CPU and GPUs.<br>
     ```
     Advanced -> PCI Subsystems Settings -> Enable Re-size BAR support
     ```
+    
 
 - **Power Management:**  
     Disable unnecessary power-saving features that may throttle GPU performance, such as C-states and ASPM.<br>
@@ -246,6 +248,7 @@ Start by booting with WinPE from a USB drive to quickly verify all hardware comp
 ## [VIII. License](#license) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 This project is open source and available under the [MIT License](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/LICENSE)
 
+
 <p align="center">
-    <img src="Photos/bye-bye-bye.gif">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=11F732&background=000000&width=700&height=100&lines=Thank+you+for+visiting+me.+Goodbye!" alt="Typing SVG" /></a>
 </p>
