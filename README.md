@@ -44,7 +44,7 @@
 
 ---
 
-## [I. Introduction](#-introduction) &ensp; [🔝](#-table-of-contents)
+## [I. Introduction 🙋🏻‍♂️🙋🏻‍♀️🙋‍♀️🙋🏻🙋🏽‍♂️🙋🏼‍♂️🙋🏽‍♀️💁‍♂️🙋🏼🙍‍♂️🙋🏾‍♂️✋✋✋✋✋✋✋✋](#-introduction) &ensp; [🔝](#-table-of-contents)
 
 <table>
     <tr>
@@ -61,7 +61,7 @@
 
 ---
 
-## [II. Preparation](#-preparing) &ensp; [🔝](#-table-of-contents)
+## [II. Preparation 🧑🏽‍🔧](#-preparing) &ensp; [🔝](#-table-of-contents)
 
 ### 1. **Electronic & Electrical**
 
@@ -129,7 +129,7 @@
 
 ---
 
-## [III. Assembly](#-assembling) &ensp; [🔝](#-table-of-contents)
+## [III. Assembly 🦾](#-assembling) &ensp; [🔝](#-table-of-contents)
 
 <table>
     <tr>
@@ -222,25 +222,28 @@
 
 ---
 
-## [IV. Setup](#-setup) &ensp; [🔝](#-table-of-contents)
+## [IV. Setup 🛠️](#-setup) &ensp; [🔝](#-table-of-contents)
 
 ### BIOS Optimization for GPU Performance
 
 > **Tip:** The default BIOS settings may not deliver optimal performance for multi-GPU workloads. Adjust these parameters for best results:
 
 - **PCIe Settings** ![Static Badge](https://img.shields.io/badge/Important-8A2BE2)<br>
+    🚨📢🔔⚠️
     Set all PCIe slots to the highest supported speed (Gen4/Gen5) and configure bifurcation for your GPUs.<br>
     ```
     Advanced -> Chipset Configuration -> PCIE link width -> set MCIO2/1, MCIO4/3, MCIO6/5, MCIO8/7, MCIO12/11, MCIO14/13, MCIO16/15, MCIO18/17 to x16
     ```
 
 - **Above 4G Decoding** ![Static Badge](https://img.shields.io/badge/Important-8A2BE2)<br>
+    🚨📢🔔⚠️
     Enable "Above 4G Decoding" to address large GPU memory.<br>
     ```
     May be enabled by default
     ```
 
 - **Resizable BAR** ![Static Badge](https://img.shields.io/badge/Important-8A2BE2)<br>
+    🚨📢🔔⚠️
     Activate "Resizable BAR" for improved CPU-GPU data transfer.<br>
     ```
     Advanced -> PCI Subsystems Settings -> Enable Re-size BAR support
@@ -261,8 +264,8 @@
 After saving changes, reboot and monitor GPU performance and stability.
 
 **References:**  
-- [Motherboard User Manual](https://download.asrock.com/Manual/GENOA2D24G-2L%2b.pdf)  
-- [BMC Documents](https://download.asrock.com/Manual/BMC/GENOA2D24G-2L%2b.pdf)
+- [Motherboard User Manual 💻🖱️](https://download.asrock.com/Manual/GENOA2D24G-2L%2b.pdf)  
+- [BMC Documents 🤖](https://download.asrock.com/Manual/BMC/GENOA2D24G-2L%2b.pdf)
 
 <p align="center">
     <video src="https://github.com/user-attachments/assets/41cd6d5d-9acd-41d6-b9c2-4da4666f3870"></video>
@@ -270,7 +273,7 @@ After saving changes, reboot and monitor GPU performance and stability.
 
 ---
 
-## [V. Testing](#-testing) &ensp; [🔝](#-table-of-contents)
+## [V. Testing 🕵🏻](#-testing) &ensp; [🔝](#-table-of-contents)
 
 Boot with WinPE from USB to verify hardware, or install Linux, NVIDIA drivers, and check with `nvtop`. Once confirmed, install your OS and start your AI work.
 
@@ -291,21 +294,21 @@ Boot with WinPE from USB to verify hardware, or install Linux, NVIDIA drivers, a
 
 ---
 
-## [VI. GG Drive](#-gg-drive) &ensp; [🔝](#-table-of-contents)
+## [VI. GG Drive 🗂️](#-gg-drive) &ensp; [🔝](#-table-of-contents)
 
 [📦 3D Step Models](https://drive.google.com/drive/folders/1CPBjhxc8X349RCH8z7i7xvXVxy29Kzuq)
 
 ---
 
-## [VII. Author](#author) &ensp; [🔝](#-table-of-contents)
+## [VII. Author ✍️](#author) &ensp; [🔝](#-table-of-contents)
 
 ![We are EdgeAI](https://img.shields.io/badge/We%20are%20EdgeAI-%23007EC6)
 
 ---
 
-## [VIII. License](#license) &ensp; [🔝](#-table-of-contents)
+## [VIII. License📝](#license) &ensp; [🔝](#-table-of-contents)
 
-This project is open source under the [MIT License](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/LICENSE)
+This project is open source under the [MIT License](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/LICENSE).
 
 ---
 
