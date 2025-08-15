@@ -156,13 +156,13 @@
 | 21 | Secure the motherboard to “Part 2 – CPU Plate” using M3 screws. | ![](Photos/8GPU/Assembling/21.png) |
 | 22 | Place 20 mm plastic spacers under the PCI board and secure them with M4 screws. | ![](Photos/8GPU/Assembling/22.png) |
 | 23 | Install the remaining components. | ![](Photos/8GPU/Assembling/23.png) |
-| 24 |  | ![](Photos/8GPU/Assembling/24.png) |
-| 25 |  | ![](Photos/8GPU/Assembling/25.png) |
+| 24 | Just a photo  | ![](Photos/8GPU/Assembling/24.png) |
+| 25 | Just a photo  | ![](Photos/8GPU/Assembling/25.png) |
 | 26 | Place the assembled parts upright. | ![](Photos/8GPU/Assembling/26.png) |
 | 27 | Connect the PCI board cable to the motherboard. | ![](Photos/8GPU/Assembling/27.png) |
 | 28 | Use zip ties to organize cables. | ![](Photos/8GPU/Assembling/28.png) |
 | 29 | Connect the power cable to the motherboard. | ![](Photos/8GPU/Assembling/29.png) |
-| 30 |  | ![](Photos/8GPU/Assembling/30.png) |
+| 30 | Connect MCIO cable to MCIO adapter | ![](Photos/8GPU/Assembling/30.png) |
 | 31 | Place “Part 6 – Top” into position and secure it with M4 screws and the support plate. | ![](Photos/8GPU/Assembling/31.png) |
 | 32 | Install 8 GPUs. | ![](Photos/8GPU/Assembling/32.png) |
 | 33 | Secure the GPUs to the support rail. | ![](Photos/8GPU/Assembling/33.png) |
