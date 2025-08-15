@@ -37,7 +37,6 @@
 - [Assembly](#-assembling)
 - [Setup](#-setup)
 - [Testing](#-testing)
-- [GG Drive](#-gg-drive)
 - [BOM](#bom) *(update soon)*
 - [Author](#author)
 - [License](#license)
@@ -147,9 +146,8 @@ Boot with WinPE from USB to verify hardware, or install Linux, NVIDIA drivers, a
 
 ---
 
-## [VI. GG Drive 🗂️](#-gg-drive) &ensp; [🔝](#-table-of-contents)
+## [VI. BOM🗂️](#-bom) &ensp; [🔝](#-table-of-contents)
 
-[📦 3D Step Models](https://drive.google.com/drive/folders/1CPBjhxc8X349RCH8z7i7xvXVxy29Kzuq)
 
 ---
 
