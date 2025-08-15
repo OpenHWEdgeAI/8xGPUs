@@ -146,9 +146,9 @@ Boot with WinPE from USB to verify hardware, or install Linux, NVIDIA drivers, a
 
 ---
 
-## [**VI. BOM🗂️**](https://github.com/OpenHWEdgeAI/8xGPUs/tree/main/Step_Models) &ensp; [🔝](#-table-of-contents)
+## [**VI. BOM🗂️**](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/BOM/BOM_8GPUs.xlsx) &ensp; [🔝](#-table-of-contents)
 
-[𝄜 Bill of Materials](https://github.com/OpenHWEdgeAI/8xGPUs/tree/main/Step_Models)
+- [𝄜 Bill of Materials](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/BOM/BOM_8GPUs.xlsx)
 ---
 
 ## [**VII. Author ✍️**](#author) &ensp; [🔝](#-table-of-contents)
