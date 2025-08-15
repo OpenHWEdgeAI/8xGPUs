@@ -5,15 +5,15 @@
   <img src="Photos/8GPU/Preparing/EE/inside-8card.jpg">
 </p>
 
-This guide introduces how to build a powerful server with 8x GPUs for AI applications. It covers the essential hardware and software steps needed to create a high-performance system for machine learning.
+***This guide introduces how to build a powerful server with 8x GPUs for AI applications. It covers the essential hardware and software steps needed to create a high-performance system for machine learning.***
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/OpenHWEdgeAI/8xGPUs)](https://github.com/OpenHWEdgeAI/8xGPUs/stargazers)
 
 ## 📚 [Table of Contents](#-table-of-contents)
 - [Introduction](#-introduction)
-- [Preparing](#-preparing)
-- [Assembling](#-assembling)
+- [Preparation](#-preparing)
+- [Assembly](#-assembling)
 - [Setup](#-setup)
 - [Testing](#-testing)
 - [GG Drive](#-gg-drive)
@@ -36,7 +36,7 @@ This guide introduces how to build a powerful server with 8x GPUs for AI applica
     
 </table>
 
-## [II. Preparing](#-preparing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+## [II. Preparation](#-preparing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 ### 1. *Electronic & Electrical:*
 <table>
     <tr>
@@ -99,7 +99,7 @@ This guide introduces how to build a powerful server with 8x GPUs for AI applica
 
 <video src="https://github.com/user-attachments/assets/05ee937c-a871-4809-914b-d98930b31777"></video>
 
-## [III. Assembling](#-assembling) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
+## [III. Assembly](#-assembling) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 
 
 <table>
@@ -231,10 +231,15 @@ The default BIOS settings of the motherboard may not deliver optimal performance
 
 After making these changes, save and reboot the system. Monitor GPU performance and stability during initial tests to confirm improvements.
 
+***📝Reference:*** <br>
+1. [💻Motherboard User Manual Reference](https://download.asrock.com/Manual/GENOA2D24G-2L%2b.pdf)<br>
+2. [BMC Documents](https://download.asrock.com/Manual/BMC/GENOA2D24G-2L%2b.pdf)<br>
+
 <video src="https://github.com/user-attachments/assets/41cd6d5d-9acd-41d6-b9c2-4da4666f3870"></video><br>
 
+
 ## [V. Testing](#-testing) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
-Start by booting with WinPE from a USB drive to quickly verify all hardware components are functioning correctly, or we can install linux and check with ***`nvtop`*** command. Once the hardware is confirmed, you can proceed with installing your desired OS to begin working on your AI application.
+Start by booting with WinPE from a USB drive to quickly verify all hardware components are functioning correctly, or we can install linux, install nvidia drivers for GPU and check with ***`nvtop`*** command. Once the hardware is confirmed, you can proceed with installing your desired OS to begin working on your AI application.
 
 <p align="center">
     <img src="Photos/8GPU/Testing/Nvtop.png">
@@ -246,7 +251,7 @@ Start by booting with WinPE from a USB drive to quickly verify all hardware comp
 [3D Step Models](https://drive.google.com/drive/folders/1CPBjhxc8X349RCH8z7i7xvXVxy29Kzuq)
 
 ## [VII. Author](#author) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
-![We are EdgeAI](https://img.shields.io/badge/We%20are%20Edge%20AI-%23007EC6)
+![We are EdgeAI](https://img.shields.io/badge/We%20are%20EdgeAI-%23007EC6)
 
 ## [VIII. License](#license) &ensp; &ensp; &ensp; &ensp;[🔝](#-table-of-contents)
 This project is open source and available under the [MIT License](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/LICENSE)
