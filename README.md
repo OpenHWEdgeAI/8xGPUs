@@ -31,19 +31,19 @@
 
 ---
 
-## 📚 **Table of Contents**
-- [Introduction](#-introduction)
-- [Preparation](#-preparation)
-- [Assembly](#-assembling)
-- [Setup](#-setup)
-- [Testing](#-testing)
+## 📚 Table of Contents
+- [Introduction](#introduction)
+- [Preparation](#preparation)
+- [Assembly](#assembly)
+- [Setup](#setup)
+- [Testing](#testing)
 - [BOM](#bom)
 - [Author](#author)
 - [License](#license)
 
 ---
 
-## [I. Introduction 🙋🏻‍♂️🙋🏻‍♀️🙋‍♀️🙋🏻🙋🏽‍♂️🙋🏼‍♂️🙋🏽‍♀️💁‍♂️🙋🏼🙋🏾‍♂️✋✋✋✋✋✋✋✋](#-introduction) &ensp; [🔝](#-table-of-contents)
+## [I. Introduction 🙋🏻‍♂️🙋🏻‍♀️🙋‍♀️🙋🏻🙋🏽‍♂️🙋🏼‍♂️🙋🏽‍♀️💁‍♂️🙋🏼🙋🏾‍♂️✋✋✋✋✋✋✋✋](#introduction) &ensp; [🔝](#-table-of-contents)
 
 <table>
     <tr>
@@ -60,7 +60,7 @@
 
 ---
 
-## [II. Preparation 🧑🏽‍🔧](#-preparation) &ensp; [🔝](#-table-of-contents)
+## [II. Preparation 🧑🏽‍🔧](#reparation) &ensp; [🔝](#-table-of-contents)
 
 ### 1. [**Electronic & Electrical**](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/Docs/Prepare_EE.md)
 
@@ -74,7 +74,7 @@
 
 
 
-## [IV. Setup 🛠️](#-setup) &ensp; [🔝](#-table-of-contents)
+## [IV. Setup 🛠️](#setup) &ensp; [🔝](#-table-of-contents)
 
 ### BIOS Optimization for GPU Performance
 
@@ -125,7 +125,7 @@ After saving changes, reboot and monitor GPU performance and stability.
 
 ---
 
-## [V. Testing 🕵🏻](#-testing) &ensp; [🔝](#-table-of-contents)
+## [V. Testing 🕵🏻](#testing) &ensp; [🔝](#-table-of-contents)
 
 Boot with WinPE from USB to verify hardware, or install Linux, NVIDIA drivers, and check with `nvtop`. Once confirmed, install your OS and start your AI work.
 
