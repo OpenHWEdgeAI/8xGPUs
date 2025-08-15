@@ -31,19 +31,19 @@
 
 ---
 
-## 📚 Table of Contents
+## 📚 **Table of Contents**
 - [Introduction](#-introduction)
 - [Preparation](#-preparing)
 - [Assembly](#-assembling)
 - [Setup](#-setup)
 - [Testing](#-testing)
-- [BOM](#bom) *(update soon)*
+- [BOM](#bom)
 - [Author](#author)
 - [License](#license)
 
 ---
 
-## [I. Introduction 🙋🏻‍♂️🙋🏻‍♀️🙋‍♀️🙋🏻🙋🏽‍♂️🙋🏼‍♂️🙋🏽‍♀️💁‍♂️🙋🏼🙋🏾‍♂️✋✋✋✋✋✋✋✋](#-introduction) &ensp; [🔝](#-table-of-contents)
+## [**I. Introduction 🙋🏻‍♂️🙋🏻‍♀️🙋‍♀️🙋🏻🙋🏽‍♂️🙋🏼‍♂️🙋🏽‍♀️💁‍♂️🙋🏼🙋🏾‍♂️✋✋✋✋✋✋✋✋**](#-introduction) &ensp; [🔝](#-table-of-contents)
 
 <table>
     <tr>
@@ -60,7 +60,7 @@
 
 ---
 
-## [II. Preparation 🧑🏽‍🔧](#-preparing) &ensp; [🔝](#-table-of-contents)
+## [**II. Preparation 🧑🏽‍🔧**](#-preparing) &ensp; [🔝](#-table-of-contents)
 
 ### 1. [**Electronic & Electrical**](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/Docs/Prepare_EE.md)
 
@@ -70,11 +70,11 @@
 
 
 
-## [III. Assembly 🦾](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/Docs/Assembly.md)(#-assembling) &ensp; [🔝](#-table-of-contents)
+## [**III. Assembly 🦾**](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/Docs/Assembly.md) &ensp; [🔝](#-table-of-contents)
 
 
 
-## [IV. Setup 🛠️](#-setup) &ensp; [🔝](#-table-of-contents)
+## [**IV. Setup 🛠️**](#-setup) &ensp; [🔝](#-table-of-contents)
 
 ### BIOS Optimization for GPU Performance
 
@@ -125,7 +125,7 @@ After saving changes, reboot and monitor GPU performance and stability.
 
 ---
 
-## [V. Testing 🕵🏻](#-testing) &ensp; [🔝](#-table-of-contents)
+## [**V. Testing 🕵🏻**](#-testing) &ensp; [🔝](#-table-of-contents)
 
 Boot with WinPE from USB to verify hardware, or install Linux, NVIDIA drivers, and check with `nvtop`. Once confirmed, install your OS and start your AI work.
 
@@ -146,18 +146,18 @@ Boot with WinPE from USB to verify hardware, or install Linux, NVIDIA drivers, a
 
 ---
 
-## [VI. BOM🗂️](#-bom) &ensp; [🔝](#-table-of-contents)
+## [**VI. BOM🗂️**](https://github.com/OpenHWEdgeAI/8xGPUs/tree/main/Step_Models) &ensp; [🔝](#-table-of-contents)
 
-
+[𝄜 Bill of Materials](https://github.com/OpenHWEdgeAI/8xGPUs/tree/main/Step_Models)
 ---
 
-## [VII. Author ✍️](#author) &ensp; [🔝](#-table-of-contents)
+## [**VII. Author ✍️**](#author) &ensp; [🔝](#-table-of-contents)
 
 ![We are EdgeAI](https://img.shields.io/badge/We%20are%20EdgeAI-%23007EC6)
 
 ---
 
-## [VIII. License📝](#license) &ensp; [🔝](#-table-of-contents)
+## [**VIII. License📝**](#license) &ensp; [🔝](#-table-of-contents)
 
 This project is open source under the [MIT License](https://github.com/OpenHWEdgeAI/8xGPUs/blob/main/LICENSE).
 

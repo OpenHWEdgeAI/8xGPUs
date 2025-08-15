@@ -1,1 +1,1 @@
-📝 Because the limit size for a single file, we push the `Edge AI - 8 GPU.step` in the zip file
+📝 Because the limit size for a single file, we push the `Edge AI - 8 GPU.step` and all step file in the zip file
