@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=11F732&background=000000&width=1450&height=100&lines=Welcome+to+our+GitHub+profile!+This+is+where+we+share+projects+and+contributions." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=11F732&background=000000&width=900&height=100&lines=Welcome+-+where+8%C3%974090Ds+become+your+new+roommate." alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <img src="Photos/8GPU/Preparing/EE/inside-8card.jpg">
@@ -111,13 +111,13 @@
             <img src="Photos/8GPU/Assembling/3.png" width=450 height=400><br>
             <b>5. Install the remaining fans. <b><br>
             <img src="Photos/8GPU/Assembling/5.png" width=450 height=400><br>
-            <b>7. Place plastic spacers in position on “Part 2 – CPU Plate.”<b><br>
+            <b>7. Place plastic spacers in position on “Part 2 – CPU Plate”.<b><br>
             <img src="Photos/8GPU/Assembling/7.png" width=450 height=400><br>
             <b>9. Insert all screws, but do not tighten them yet.<b><br>
             <img src="Photos/8GPU/Assembling/9.png" width=450 height=400><br>
             <b>11. Place “Part 10 – PSU Mount” into position. <b><br>
             <img src="Photos/8GPU/Assembling/11.png" width=450 height=400><br>
-            <b>13. Place all middle parts onto “Part 5 – Bottom.”<b><br>
+            <b>13. Place all middle parts onto “Part 5 – Bottom”.<b><br>
             <img src="Photos/8GPU/Assembling/13.png" width=450 height=400><br>
             <b>15. Secure with M4 × 8 mm screws.<b><br>
             <img src="Photos/8GPU/Assembling/15.png" width=450 height=400><br>
@@ -129,7 +129,7 @@
             <img src="Photos/8GPU/Assembling/21.png" width=450 height=400><br>
             <b>23. Install the remaining components.<b><br>
             <img src="Photos/8GPU/Assembling/23.png" width=450 height=400><br>
-            <b>25. (Step intentionally left blank)<b><br>
+            <b>25. <b><br>
             <img src="Photos/8GPU/Assembling/25.png" width=450 height=400><br>
             <b>27. Connect the PCI board cable to the motherboard.<b><br>
             <img src="Photos/8GPU/Assembling/27.png" width=450 height=400><br>
@@ -141,7 +141,7 @@
             <img src="Photos/8GPU/Assembling/33.png" width=450 height=400><br>
             <b>35. Connect the power supply cables.<b><br>
             <img src="Photos/8GPU/Assembling/35.png" width=450 height=400><br>
-            <b>37. Secure “Part 7 – Side.”<b><br>
+            <b>37. Secure “Part 7 – Side”.<b><br>
             <img src="Photos/8GPU/Assembling/37.png" width=450 height=400><br>
             <b>39. Connect the main power supply.<b><br>
             <img src="Photos/8GPU/Assembling/39.png" width=450 height=400><br>
@@ -153,9 +153,9 @@
             <img src="Photos/8GPU/Assembling/4.png" width=450 height=400><br>
             <b>6. Connect all fans to the control board.<b><br>
             <img src="Photos/8GPU/Assembling/6.png" width=450 height=400><br>
-            <b>8. Fix the PSU board to “Part 2 – CPU Plate.” <b><br>
+            <b>8. Fix the PSU board to “Part 2 – CPU Plate”. <b><br>
             <img src="Photos/8GPU/Assembling/8.png" width=450 height=400><br>
-            <b>10. Assemble the Ethernet board into “Part 10 – PSU Mount.”<b><br>
+            <b>10. Assemble the Ethernet board into “Part 10 – PSU Mount”.<b><br>
             <img src="Photos/8GPU/Assembling/10.png" width=450 height=400><br>
             <b>12. Place “Part 1 – GPU Plate” on top.<b><br>
             <img src="Photos/8GPU/Assembling/12.png" width=450 height=400><br>
@@ -169,13 +169,13 @@
             <img src="Photos/8GPU/Assembling/20.png" width=450 height=400><br>
             <b>22. Place 20 mm plastic spacers under the PCI board and secure them with M4 screws.<b><br>
             <img src="Photos/8GPU/Assembling/22.png" width=450 height=400><br>
-            <b>24. (Step intentionally left blank)<b><br>
+            <b>24. <b><br>
             <img src="Photos/8GPU/Assembling/24.png" width=450 height=400><br>
             <b>26. Place the assembled parts upright.<b><br>
             <img src="Photos/8GPU/Assembling/26.png" width=450 height=400><br>
             <b>28. Use zip ties to organize cables.<b><br>
             <img src="Photos/8GPU/Assembling/28.png" width=450 height=400><br>
-            <b>30. (Step intentionally left blank)<b><br>
+            <b>30. <b><br>
             <img src="Photos/8GPU/Assembling/30.png" width=450 height=400><br>
             <b>32. Install 8 GPUs.<b><br>
             <img src="Photos/8GPU/Assembling/32.png" width=450 height=400><br>
@@ -184,8 +184,7 @@
             <b>36. Connect the fan board cable, then place the fan board into position.<b><br>
             <img src="Photos/8GPU/Assembling/36.png" width=450 height=400><br>
             <b>38. Repeat for the other side.<b><br>
-            <img src="Photos/8GPU/Assembling/38.png" width=450 height=400><br>
-           
+            <img src="Photos/8GPU/Assembling/38.png" width=450 height=400><br> 
         </td>
     </tr>
 </table>
@@ -266,5 +265,5 @@ This project is open source and available under the [MIT License](https://github
 
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=11F732&background=000000&width=700&height=100&lines=Thank+you+for+visiting+me.+Goodbye!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=11F732&background=000000&width=1450&height=100&lines=+If+this+helped%2C+toss+us+a+%E2%AD%90+%E2%80%94+and+stay+tuned%2C+the+next+2%C3%97GPUs+drop+next+Thurs.+" alt="Typing SVG" /></a>
 </p>
